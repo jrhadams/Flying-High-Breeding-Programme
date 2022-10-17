@@ -13,4 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 We want to create a crossing system which can protect our darkling beetle intellectual property rights. There are two systems we are considering:
 
-* 
+* A generated triploid beetle
+* Inter-species crosses
+

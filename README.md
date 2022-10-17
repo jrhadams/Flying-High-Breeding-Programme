@@ -49,4 +49,8 @@ We will conduct a three-way cross programme to produce a triploid product
 
 {(AxB)*4}xC
 
+### Inter-species crossing 
 
+We can render the final hybrid infertile by conducting a wide cross between beetle species. 
+
+We can leverage genomic prediction to estimate general combining abilities for each within-species strain. 
