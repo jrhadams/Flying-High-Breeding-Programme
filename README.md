@@ -17,4 +17,22 @@ We decided to look at the genomic prediction programme of an insect for feed or 
 	- Can be bred via genomic prediction
 	- Has a viable genome/ genotyping strategy
 
+## Why Darkling beetle / yellow mealworm (Tenebrio moiitor)
 
+### Phenotypes
+
+- feed conversion
+- Pupae life duration
+- growth rate
+- Resistance breeding
+- Macro-nutrient content
+
+### Potential for triploid breeding
+
+We will conduct a three-way cross programme to produce a triploid product
+
+- A : Good female line
+- B: good female line
+- C: Good male line
+
+{(AxB)*4}xC
