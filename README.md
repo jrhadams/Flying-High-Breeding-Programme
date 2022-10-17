@@ -4,7 +4,7 @@ We decided to look at the genomic prediction programme of an insect for feed or 
 
 ### Candidates 
 
-- [ ] darkling beetle
+- [X] darkling beetle
 - [ ] Locusts
 - [ ] crickets
 - [ ] soldier fly larvae
@@ -27,6 +27,12 @@ We decided to look at the genomic prediction programme of an insect for feed or 
 - Resistance breeding
 - Macro-nutrient content
 
+### Genome
+
+- A high resolution genome has been produced for yellow mealworm
+- See [here](https://open-research-europe.ec.europa.eu/articles/1-94)
+
+
 ### Potential for triploid breeding
 
 We will conduct a three-way cross programme to produce a triploid product
@@ -36,3 +42,5 @@ We will conduct a three-way cross programme to produce a triploid product
 - C: Good male line
 
 {(AxB)*4}xC
+
+
