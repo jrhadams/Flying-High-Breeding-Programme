@@ -4,10 +4,10 @@ We decided to look at the genomic prediction programme of an insect for feed or 
 
 ### Candidates 
 
-[] darkling beetle
-[] Locusts
-[] crickets
-[] soldier fly larvae
+-[] darkling beetle
+-[] Locusts
+-[] crickets
+-[] soldier fly larvae
 
 ## What is needed for a good breeding programme
 
