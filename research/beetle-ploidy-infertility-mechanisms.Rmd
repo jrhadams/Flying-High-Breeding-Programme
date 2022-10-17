@@ -1,0 +1,16 @@
+---
+title: "Researching polyploidy / Infertility in beetles"
+author: "James Adams"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Summary
+
+We want to create a crossing system which can protect our darkling beetle intellectual property rights. There are two systems we are considering:
+
+* 
