@@ -32,6 +32,12 @@ We decided to look at the genomic prediction programme of an insect for feed or 
 - A high resolution genome has been produced for yellow mealworm
 - See [here](https://open-research-europe.ec.europa.eu/articles/1-94)
 
+### Markets 
+
+- fish
+- feed
+- food
+
 
 ### Potential for triploid breeding
 

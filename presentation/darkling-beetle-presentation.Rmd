@@ -1,0 +1,16 @@
+---
+title: "Loving the Leftovers"
+author: "A Meal Worm Story"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Outline 
+
+- About our beetle
+- What can we get from it
+- Our breeding schema   
